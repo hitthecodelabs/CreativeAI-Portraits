@@ -12,7 +12,7 @@ This portfolio showcases images generated using various versions of Stable Diffu
 
 Below are the images generated using the specified versions of Stable Diffusion, along with the prompts used.
 
-### SDXL Version Images
+### Stable-Difussion XL Version Images
 
 #### 1. Serene Lake Sunset Mountains
 **Prompt**: "A serene landscape featuring a crystal-clear lake mirroring the vibrant, fiery hues of a sunset, with majestic mountains in the background and a field of wildflowers in the foreground."
