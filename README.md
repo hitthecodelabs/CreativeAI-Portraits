@@ -1,7 +1,7 @@
 # CreativeAI-Portraits
 
 ## Project Overview
-This portfolio showcases images generated using various versions of Stable Diffusion models, including the SDXL-Turbo. The images were created in a Colab notebook and demonstrate the model's capability to generate detailed, creative, and complex images from textual prompts.
+This portfolio showcases images generated using various versions of Stable Diffusion models. The images were created in a Colab notebook and demonstrate the model's capability to generate detailed, creative, and complex images from textual prompts.
 
 ### Objectives
 - To explore and compare the capabilities of different versions of Stable Diffusion.
