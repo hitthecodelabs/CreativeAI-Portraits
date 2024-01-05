@@ -15,12 +15,12 @@ Below are the images generated using the specified versions of Stable Diffusion,
 ### SDXL-Turbo Version Images
 
 #### 1. Futuristic Cityscape at Dusk
-**Prompt**: "A futuristic cityscape at dusk with flying cars, towering skyscrapers emitting soft neon lights, and people walking on transparent sky bridges, all reflected in the glossy surface of a winding river below."
-![Futuristic Cityscape at Dusk](./dall_images/futuristic_cityscape_at_dusk.jpg)
+**Prompt**: "A serene landscape featuring a crystal-clear lake mirroring the vibrant, fiery hues of a sunset, with majestic mountains in the background and a field of wildflowers in the foreground."
+![Futuristic Cityscape at Dusk](./all_images/Serene_Lake_Sunset_Mountains.png)
 
 #### 2. Ancient Library Lost to Time
 **Prompt**: "An ancient library lost to time, with towering shelves filled with glowing manuscripts, mystical artifacts on pedestals, and a grand central atrium where a tree of knowledge grows, its leaves shimmering with faint golden light."
-![Ancient Library Lost to Time](./dall_images/ancient_library_lost_to_time.jpg)
+![Ancient Library Lost to Time](./all_images/ancient_library_lost_to_time.jpg)
 
 ... (Include other images and prompts similarly)
 
