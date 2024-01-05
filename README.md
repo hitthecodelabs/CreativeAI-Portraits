@@ -19,8 +19,8 @@ Below are the images generated using the specified versions of Stable Diffusion,
 ![Futuristic Cityscape at Dusk](./all_images/Serene_Lake_Sunset_Mountains.png)
 
 #### 2. Ancient Library Lost to Time
-**Prompt**: "An ancient library lost to time, with towering shelves filled with glowing manuscripts, mystical artifacts on pedestals, and a grand central atrium where a tree of knowledge grows, its leaves shimmering with faint golden light."
-![Ancient Library Lost to Time](./all_images/ancient_library_lost_to_time.jpg)
+**Prompt**: "An astronaut exploring a neon-lit alien marketplace, filled with various extraterrestrial species trading exotic goods, under a sky with three moons."
+![Ancient Library Lost to Time](./all_images/Astronaut_Neon_Alien_Marketplace.png)
 
 ... (Include other images and prompts similarly)
 
