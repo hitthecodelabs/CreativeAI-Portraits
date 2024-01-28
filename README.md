@@ -34,11 +34,7 @@ Below are the images generated using the specified versions of Stable Diffusion,
 **Prompt**: "A vast library in an ancient monastery, with towering shelves filled with ancient tomes, scrolls, and artifacts, and a secret passage hidden behind one of the bookcases."
 ![Ancient Library Lost to Time](./all_images/Ancient_Library_Monastery.png)
 
-#### 6. Magical Garden Midnight
-**Prompt**: "A magical garden at midnight, with flowers that glow and change colors, fairies dancing around a moonlit pond, and a majestic unicorn resting under a willow tree."
-![Ancient Library Lost to Time](./all_images/Magical_Garden_Midnight.png)
-
-#### 7. Epic Space Battle Galaxy
+#### 6. Epic Space Battle Galaxy
 **Prompt**: "An epic space battle with sleek starships, exploding stars, and a massive space station, all set against the backdrop of a swirling galaxy."
 ![Ancient Library Lost to Time](./all_images/Epic_Space_Battle_Galaxy.png)
 
