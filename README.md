@@ -60,6 +60,11 @@ Generated images:
 - **Negative Prompts:** daylight scenes, urban light pollution, motion blur, lack of detail, oversaturated colors.
 ![Night Sky Stars](./comfyui/output/ComfyUI_00131_.png)
 
+### Workflow
+- Preservation of fine details and image sharpness.
+
+![Workflow](./comfyui/workflows/workflow_1.png)
+
 ### Image-to-Video Transformation with Stable Diffusion
 
 This section of the project demonstrates the innovative application of the Stable Diffusion model to transform static images into dynamic videos. By iteratively modifying the image and applying nuanced changes, we simulate motion and create a video sequence that brings the original image to life.
