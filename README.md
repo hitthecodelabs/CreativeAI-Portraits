@@ -91,26 +91,6 @@ This section of the project demonstrates the innovative application of the Stabl
 
 ![Example Video Thumbnail](./img2video/outputs/000009.gif)
 
-#### 1. Serene Lake Sunset Mountains
-**Prompt**: "A serene landscape featuring a crystal-clear lake mirroring the vibrant, fiery hues of a sunset, with majestic mountains in the background and a field of wildflowers in the foreground."
-![Futuristic Cityscape at Dusk](./all_images/Serene_Lake_Sunset_Mountains.png)
-
-#### 2. Astronaut Neon Alien Marketplace
-**Prompt**: "An astronaut exploring a neon-lit alien marketplace, filled with various extraterrestrial species trading exotic goods, under a sky with three moons."
-![Ancient Library Lost to Time](./all_images/Astronaut_Neon_Alien_Marketplace.png)
-
-#### 3. PostApocalyptic Cityscape Nature
-**Prompt**: "A post-apocalyptic cityscape where nature has reclaimed the ruins, with overgrown buildings, a river running through the main street, and survivors foraging for resources."
-![Ancient Library Lost to Time](./all_images/PostApocalyptic_Cityscape_Nature.png)
-
-#### 4. Ancient Library Monastery
-**Prompt**: "A vast library in an ancient monastery, with towering shelves filled with ancient tomes, scrolls, and artifacts, and a secret passage hidden behind one of the bookcases."
-![Ancient Library Lost to Time](./all_images/Ancient_Library_Monastery.png)
-
-#### 5. Epic Space Battle Galaxy
-**Prompt**: "An epic space battle with sleek starships, exploding stars, and a massive space station, all set against the backdrop of a swirling galaxy."
-![Ancient Library Lost to Time](./all_images/Epic_Space_Battle_Galaxy.png)
-
 ### Stable-Difussion XL Version Images
 
 #### 1. Serene Lake Sunset Mountains
