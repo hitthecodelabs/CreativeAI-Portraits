@@ -26,15 +26,11 @@ Below are the images generated using the specified versions of Stable Diffusion,
 **Prompt**: "A post-apocalyptic cityscape where nature has reclaimed the ruins, with overgrown buildings, a river running through the main street, and survivors foraging for resources."
 ![Ancient Library Lost to Time](./all_images/PostApocalyptic_Cityscape_Nature.png)
 
-#### 4. Cyberpunk Street Noir
-**Prompt**: "A cyberpunk street scene at night, with neon signs in multiple languages, diverse crowds, flying vehicles overhead, and a noir detective observing from the shadows."
-![Ancient Library Lost to Time](./all_images/Cyberpunk_Street_Noir.png)
-
-#### 5. Ancient Library Monastery
+#### 4. Ancient Library Monastery
 **Prompt**: "A vast library in an ancient monastery, with towering shelves filled with ancient tomes, scrolls, and artifacts, and a secret passage hidden behind one of the bookcases."
 ![Ancient Library Lost to Time](./all_images/Ancient_Library_Monastery.png)
 
-#### 6. Epic Space Battle Galaxy
+#### 5. Epic Space Battle Galaxy
 **Prompt**: "An epic space battle with sleek starships, exploding stars, and a massive space station, all set against the backdrop of a swirling galaxy."
 ![Ancient Library Lost to Time](./all_images/Epic_Space_Battle_Galaxy.png)
 
