@@ -22,35 +22,23 @@ Below are the images generated using the specified versions of Stable Diffusion,
 **Prompt**: "An astronaut exploring a neon-lit alien marketplace, filled with various extraterrestrial species trading exotic goods, under a sky with three moons."
 ![Ancient Library Lost to Time](./all_images/Astronaut_Neon_Alien_Marketplace.png)
 
-#### 3. Whimsical Crystal Forest
-**Prompt**: "A whimsical forest with trees that have leaves of shimmering crystal, bioluminescent mushrooms dotting the path, and friendly forest creatures with glowing eyes."
-![Ancient Library Lost to Time](./all_images/Whimsical_Crystal_Forest.png)
-
-#### 4. Medieval Banquet Castle Hall
-**Prompt**: "A grand medieval banquet in a castle hall, with lords and ladies in elaborate attire feasting at a table laden with exotic dishes, as minstrels play in the background."
-![Ancient Library Lost to Time](./all_images/Medieval_Banquet_Castle_Hall.png)
-
-#### 5. Underwater City Merpeople
-**Prompt**: "An underwater city with coral buildings, merpeople swimming through the streets, fish-like vehicles, and a grand palace made of pearl and seashell."
-![Ancient Library Lost to Time](./all_images/Underwater_City_Merpeople.png)
-
-#### 6. PostApocalyptic Cityscape Nature
+#### 3. PostApocalyptic Cityscape Nature
 **Prompt**: "A post-apocalyptic cityscape where nature has reclaimed the ruins, with overgrown buildings, a river running through the main street, and survivors foraging for resources."
 ![Ancient Library Lost to Time](./all_images/PostApocalyptic_Cityscape_Nature.png)
 
-#### 7. Cyberpunk Street Noir
+#### 4. Cyberpunk Street Noir
 **Prompt**: "A cyberpunk street scene at night, with neon signs in multiple languages, diverse crowds, flying vehicles overhead, and a noir detective observing from the shadows."
 ![Ancient Library Lost to Time](./all_images/Cyberpunk_Street_Noir.png)
 
-#### 8. Ancient Library Monastery
+#### 5. Ancient Library Monastery
 **Prompt**: "A vast library in an ancient monastery, with towering shelves filled with ancient tomes, scrolls, and artifacts, and a secret passage hidden behind one of the bookcases."
 ![Ancient Library Lost to Time](./all_images/Ancient_Library_Monastery.png)
 
-#### 9. Magical Garden Midnight
+#### 6. Magical Garden Midnight
 **Prompt**: "A magical garden at midnight, with flowers that glow and change colors, fairies dancing around a moonlit pond, and a majestic unicorn resting under a willow tree."
 ![Ancient Library Lost to Time](./all_images/Magical_Garden_Midnight.png)
 
-#### 10. Epic Space Battle Galaxy
+#### 7. Epic Space Battle Galaxy
 **Prompt**: "An epic space battle with sleek starships, exploding stars, and a massive space station, all set against the backdrop of a swirling galaxy."
 ![Ancient Library Lost to Time](./all_images/Epic_Space_Battle_Galaxy.png)
 
