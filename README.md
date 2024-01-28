@@ -60,6 +60,57 @@ Generated images:
 - **Negative Prompts:** daylight scenes, urban light pollution, motion blur, lack of detail, oversaturated colors.
 ![Night Sky Stars](./comfyui/output/ComfyUI_00131_.png)
 
+### Image-to-Video Transformation with Stable Diffusion
+
+This section of the project demonstrates the innovative application of the Stable Diffusion model to transform static images into dynamic videos. By iteratively modifying the image and applying nuanced changes, we simulate motion and create a video sequence that brings the original image to life.
+
+#### Stable Diffusion Model Configuration
+- **Model Version:** svd_xt.safetensors
+- **Base Configuration:** Details the initial settings and parameters for generating the starting image.
+  - **Resolution:** 1024x576 pixels
+
+#### Image-to-Video Conversion
+- **Methodology:** Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.
+- **Frame Generation:** This model was trained to generate 25 frames at resolution 576x1024 given a context frame of the same size.
+- **Video Specifications:**
+  - **Frame Rate:** 6 frames per second
+  - **Resolution:** 1024 (width) x 576 (height)
+  - **Length:** 4.166 seconds
+
+### Examples
+
+<img src="./img2video/inputs/mikasa_001.jpg" width="690" height="auto">
+
+![Example Video Thumbnail](./img2video/outputs/000000.gif)
+
+<img src="./img2video/inputs/fireworks.png" width="690" height="auto">
+
+![Example Video Thumbnail](./img2video/outputs/000001.gif)
+
+<img src="./img2video/inputs/tron_001.png" width="690" height="auto">
+
+![Example Video Thumbnail](./img2video/outputs/000009.gif)
+
+#### 1. Serene Lake Sunset Mountains
+**Prompt**: "A serene landscape featuring a crystal-clear lake mirroring the vibrant, fiery hues of a sunset, with majestic mountains in the background and a field of wildflowers in the foreground."
+![Futuristic Cityscape at Dusk](./all_images/Serene_Lake_Sunset_Mountains.png)
+
+#### 2. Astronaut Neon Alien Marketplace
+**Prompt**: "An astronaut exploring a neon-lit alien marketplace, filled with various extraterrestrial species trading exotic goods, under a sky with three moons."
+![Ancient Library Lost to Time](./all_images/Astronaut_Neon_Alien_Marketplace.png)
+
+#### 3. PostApocalyptic Cityscape Nature
+**Prompt**: "A post-apocalyptic cityscape where nature has reclaimed the ruins, with overgrown buildings, a river running through the main street, and survivors foraging for resources."
+![Ancient Library Lost to Time](./all_images/PostApocalyptic_Cityscape_Nature.png)
+
+#### 4. Ancient Library Monastery
+**Prompt**: "A vast library in an ancient monastery, with towering shelves filled with ancient tomes, scrolls, and artifacts, and a secret passage hidden behind one of the bookcases."
+![Ancient Library Lost to Time](./all_images/Ancient_Library_Monastery.png)
+
+#### 5. Epic Space Battle Galaxy
+**Prompt**: "An epic space battle with sleek starships, exploding stars, and a massive space station, all set against the backdrop of a swirling galaxy."
+![Ancient Library Lost to Time](./all_images/Epic_Space_Battle_Galaxy.png)
+
 ### Stable-Difussion XL Version Images
 
 #### 1. Serene Lake Sunset Mountains
