@@ -38,32 +38,32 @@ Generated images:
 ### Astronaut Exploring a Distant Planet
 - **Positive Prompt:** An astronaut exploring the rugged terrain of a distant, alien planet, with towering rock formations and a vividly colored sky in the background. The astronaut's suit is detailed, reflecting the harsh environment and the sense of isolation. The style is cinematic and realistic, emphasizing the vastness and mystery of extraterrestrial exploration.
 - **Negative Prompts:** familiar Earth landscapes, crowded, urban settings, abstract, oversimplified, traditional, day-to-day activities.
-![Astronaut Exploring](./comfyui/output/ComfyUI_00119_.png)
+![Astronaut Exploring](./text2image/output/ComfyUI_00119_.png)
 
 ### Raindrops on a Window Overlooking a Cityscape
 - **Positive Prompt:** A close-up of raindrops on a window with a twilight cityscape background, focusing on the clarity of raindrops with city light reflections, mimicking a high aperture lens effect.
 - **Negative Prompts:** bright daylight, clear skies, oversimplification, abstract elements, wide focus.
-![Raindrops on Window](./comfyui/output/ComfyUI_00125_.png)
+![Raindrops on Window](./text2image/output/ComfyUI_00125_.png)
 
 ### Art Nouveau Inspired Garden Party
 - **Positive Prompt:** An elegant garden party set in a lush, blooming garden with an Art Nouveau-inspired design, featuring flowing organic lines, intricate floral arrangements, and guests in period attire. The lighting is soft and warm, highlighting the delicate details of the dresses and the natural beauty of the setting. The style is detailed and romantic, capturing the whimsical and refined atmosphere of the Art Nouveau era.
 - **Negative Prompts:** modern, industrial, cold lighting, minimalistic, abstract, sparse vegetation, monochromatic.
-![Majestic Mountains](./comfyui/output/ComfyUI_00120_.png)
+![Majestic Mountains](./text2image/output/ComfyUI_00120_.png)
 
 ### Close-Up of a Dew-Covered Spider Web
 - **Positive Prompt:** A macro photo of a dew-covered spider web, showcasing crystal-clear dewdrops and a sharply defined web pattern against a blurred background, akin to professional macro photography.
 - **Negative Prompts:** wide shots, dry conditions, blurred details, abstract, high ISO noise.
-![Dew-Covered Spider Web](./comfyui/output/ComfyUI_00128_.png)
+![Dew-Covered Spider Web](./text2image/output/ComfyUI_00128_.png)
 
 ### Night Sky Full of Stars Above a Silhouetted Landscape
 - **Positive Prompt:** A night sky filled with stars over a silhouetted landscape, capturing the clarity and depth of astrophotography, with the Milky Way visible and stars sharply rendered.
 - **Negative Prompts:** daylight scenes, urban light pollution, motion blur, lack of detail, oversaturated colors.
-![Night Sky Stars](./comfyui/output/ComfyUI_00131_.png)
+![Night Sky Stars](./text2image/output/ComfyUI_00131_.png)
 
 ### Workflow
 - Preservation of fine details and image sharpness.
 
-![Workflow](./comfyui/workflows/workflow_1.png)
+![Workflow](./text2image/workflows/workflow_1.png)
 
 ### Image-to-Video Transformation with Stable Diffusion
 
