@@ -76,7 +76,7 @@ This section of the project demonstrates the innovative application of the Stabl
 
 #### Image-to-Video Conversion
 - **Methodology:** Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.
-- **Frame Generation:** This model was trained to generate 25 frames at resolution 576x1024 given a context frame of the same size.
+- **Frame Generation:** This model was trained to generate 25 frames at resolution 1024x576 given a context frame of the same size.
 - **Video Specifications:**
   - **Frame Rate:** 6 frames per second
   - **Resolution:** 1024 (width) x 576 (height)
