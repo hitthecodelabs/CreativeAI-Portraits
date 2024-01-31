@@ -221,8 +221,8 @@ print(f"Prompt:\t{prompt}\nSeed:\t{seed}")
 # Display the generated images
 media.show_images(images)
 
-# Save the first image as "output.jpg"
-images[0].save("output.jpg")
+# Save the first image
+images[0].save(prompt.split(",")[0].replace(" ", "_") + ".png")
 ```
 
 ---
